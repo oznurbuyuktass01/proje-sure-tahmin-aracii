@@ -74,6 +74,7 @@ st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Süre Tahmin Aracı</h1>
     <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Hafta 2 Lab Projesi</p>
+    <p>Hazırlayan: Öznur Büyüktaş</p>
 </div>
 """, unsafe_allow_html=True)
 
